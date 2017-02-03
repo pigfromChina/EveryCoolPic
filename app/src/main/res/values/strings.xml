@@ -4,8 +4,8 @@
     <string name="text_enable">Enable</string>
     <string name="summary_enable">Change once a day</string>
     <string name="text_change_now">Change Now</string>
-    <string name="text_source">Source Code</string>
-    <string name="summary_source">By TaRGroup-liangyuteng0927</string>
+    <string name="text_source">Get Source Code</string>
+    <string name="summary_source">Brought to you By TaRGroup-liangyuteng0927</string>
     <string-array name="type_entry">
         <item>Hand picked</item>
         <item>Hot</item>
